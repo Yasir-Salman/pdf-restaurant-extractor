@@ -9,8 +9,8 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="pdf-restaurant-extractor",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Yasir Salman",
+    author_email="yasirsmayet496@example.com",
     description="Extract restaurant information from PDF files using text extraction and OCR",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -39,7 +39,7 @@ setup(
     },
     keywords="pdf, ocr, restaurant, text extraction, receipt processing",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/pdf-restaurant-extractor/issues",
-        "Source": "https://github.com/yourusername/pdf-restaurant-extractor",
+        "Bug Reports": "https://github.com/Yasir-Salman/pdf-restaurant-extractor/issues",
+        "Source": "https://github.com/Yasir-Salman/pdf-restaurant-extractor",
     },
 )
